@@ -1,1 +1,1 @@
-Clase 2 Github
+Clase 2 Github, se modifica archivo txt en  github remoto
