@@ -1,2 +1,6 @@
 Clase 2 Github, se modifica archivo txt en  github remoto
+<<<<<<< HEAD
 linea dos local
+=======
+Vuelvo a modificar el archivo para el ejercicio 7
+>>>>>>> 6b3c0e3fb36ade3d3ad3b11912376790ffb4eb18
